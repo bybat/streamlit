@@ -1,0 +1,8 @@
+{
+"account": "ccdp.west-europe.azure",
+"user": "bateadm@cogas.nl",
+"warehouse": "DEV_COMPUTE_WH",
+"database" : "DEV_ODS",
+"schema" : "PUBLIC",
+"role": "ACCOUNTADMIN"
+}
