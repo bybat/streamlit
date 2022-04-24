@@ -2,7 +2,6 @@ streamlit
 ipython
 numpy
 
-pywinpty
 
 altair==4.2.0
 argon2-cffi==21.3.0
