@@ -1,6 +1,7 @@
 streamlit
 ipython
 numpy
+pyproj
 
 
 altair==4.2.0
