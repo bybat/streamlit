@@ -2,6 +2,7 @@ streamlit
 ipython
 numpy
 pyproj
+rust
 
 
 altair==4.2.0
