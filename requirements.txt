@@ -1,3 +1,4 @@
+streamlit
 altair==4.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
@@ -92,7 +93,6 @@ soupsieve==2.3.2.post1
 SQLAlchemy==1.4.35
 st-annotated-text==3.0.0
 stack-data==0.2.0
-streamlit==1.8.1
 streamlit-aggrid==0.2.3.post2
 terminado==0.13.3
 tinycss2==1.1.1
