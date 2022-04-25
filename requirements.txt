@@ -1,5 +1,5 @@
 streamlit
-ipython
+ipython 
 numpy
 pyproj
 rust
